@@ -1,0 +1,13 @@
+= Passport Extractor
+
+Example showing how to extract information from a passport image.
+
+Uses a self trained model: https://gist.github.com/lordofthejars/13a6359b2d90eb76345f16518b4e7374 and dataset: https://universe.roboflow.com/pranay-saha-mkvbb/passport-entity-detection
+
+Interesting points:
+
+* YOLO classification
+* Image extraction (OpenCV)
+* OCR (Tesseract)
+
+To run the example check `demo/run.sh`.

@@ -1,0 +1,15 @@
+birthdate
+countrycode
+placeissue
+sex
+signature
+surname
+type
+expiredate
+issuedate
+passportcode
+firstname
+nationality
+passportnumber
+photo
+placebirth
